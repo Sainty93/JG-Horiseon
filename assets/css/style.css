@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*backgroung color of entire site*/
 body {
     background-color: #d9dcd6;
 }
-
+/* size in between spaces, background color and font color for heading*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* styling frist section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* placement for images*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* page closeout*/
 .footer {
     padding: 30px;
     clear: both;
