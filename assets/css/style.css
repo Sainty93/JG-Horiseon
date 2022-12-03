@@ -23,7 +23,7 @@ header {
     display: inline-block;
     font-size: 48px;
 }
-
+/* styling of letters in the company logo */
 span {
     color: #d9dcd6;
 }
@@ -48,7 +48,7 @@ a {
 p {
     font-size: 18px;
 }
-
+/* Meeting image styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,7 +63,7 @@ h2 {
     font-size: 36px;
 
 }
-
+/* positioning and styling of images in the section article */
 .float-left {
     float: left;
     margin-right: 25px;
